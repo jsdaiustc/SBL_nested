@@ -2,14 +2,5 @@
 Matlab codes for "Sparse Bayesian learning for off-grid DOA estimation with nested arrays"
 
 
-The Matlab codes are written for the following paper.
-
-@article{chen2018sparse,
-  title={Sparse Bayesian learning for off-grid DOA estimation with nested arrays},
-  author={Chen, Fangfang and Dai, Jisheng and Hu, Nan and Ye, Zhongfu},
-  journal={Digital Signal Processing},
-  volume={82},
-  pages={187--193},
-  year={2018},
-  publisher={Elsevier}
-}
+The Matlab codes were written for the paper: 
+Chen, Fangfang, Jisheng Dai, Nan Hu, and Zhongfu Ye. "Sparse Bayesian learning for off-grid DOA estimation with nested arrays." Digital Signal Processing 82 (2018): 187-193.
